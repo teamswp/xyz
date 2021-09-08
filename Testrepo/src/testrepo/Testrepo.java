@@ -18,7 +18,7 @@ public class Testrepo {
       System.out.println("welcome to TSP");
         
         
-        for(int i=0;i<5;=++)
+        for(int i=0;i<5;i++)
             System.out.println(i);
     }
     
